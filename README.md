@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is JANG DONGHYUN.
+I'm studying about software at university.
 
 <!--
 **dhjang01/dhjang01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
